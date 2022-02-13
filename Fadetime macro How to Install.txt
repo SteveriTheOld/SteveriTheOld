@@ -1,0 +1,32 @@
+ChamSys MagicQ Fadetime Macros
+
+
+Place the file in your normal show folder.
+
+Open the file in MagicQ.
+
+Check that the macros in the file are not interfering with other macros.
+
+Move macros if necessary.
+
+Import your normal .SET settings file on top of the fadetime file.
+
+Save your settings.
+
+Adjust timings by going into view data of a macro on the macro page.
+
+Make more macros with multiple timings simply by copying the macro and editing values on one.
+
+Triggering from macro view works, also from the quick macros.
+
+If you want these on buttons on an Execute screen you must make a cuestack on your Execute.
+
+In said cuestack trigger the macro with B followed by the corresponding macro number.
+
+
+If you find bugs etc let me know. 
+
+Im usually on the ChamSys World Discord, https://discord.gg/GAqfnRcK9u
+
+Enjoy! 
+	- Steveri
